@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:KENNEDY;SHARMI ;;;
-FN:SHARMI KENNEDY
+FN: SHARMI KENNEDY
 ORG:ITCAN;
 TITLE:Talent Acquisition Associate
 EMAIL;type=INTERNET;type=WORK;type=pref:sharmi@itcan.biz
-TEL;type=WORK;type=VOICE:+91 89460 07510
+TEL;type=WORK;type=VOICE:+91 8946007510
 item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
